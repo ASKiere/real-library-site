@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(50,255,50);
+}
+
+#wow {
+  font-style: italic;
+  color: grey;
+}
+
+#best {
+  font-style: bold;
+}
+#pain {
+  color: red;
+}
